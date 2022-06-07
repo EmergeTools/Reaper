@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
     s.name         = "Reaper"
-    s.version      = "1.0.0"
+    s.version      = "1.0.1"
     s.summary      = "A tool for detecting unused code"
     s.description  = "For more info, see https://docs.emergetools.com/docs/overview-4"
     s.homepage     = "https://emergetools.com"
