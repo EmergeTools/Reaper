@@ -5,7 +5,7 @@ Pod::Spec.new do |s|
     s.description  = "For more info, see https://docs.emergetools.com/docs/overview-4"
     s.homepage     = "https://emergetools.com"
     s.license = { :type => 'Copyright', :text => 'Copyright 2022 Emerge Tools, Inc.' }
-    s.source       = { :git => "https://github.com/EmergeTools/Reaper/Reaper.git", :tag => s.version.to_s }
+    s.source       = { :git => "https://github.com/EmergeTools/Reaper.git", :tag => s.version.to_s }
     s.public_header_files = "Reaper.framework/Headers/*.h"
     # s.source_files = "Reaper.framework/Headers/*.h"
     s.vendored_frameworks = "Reaper.framework"
