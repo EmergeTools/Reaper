@@ -1,6 +1,6 @@
-# [Reaper](https://www.emergetools.com/blog/posts/dead-code-detection-with-reaper)
+# Reaper
 
-A framework for detecting dead code at runtime.
+A framework for detecting dead code at runtime. Read more about it in the [launch blog post](https://www.emergetools.com/blog/posts/dead-code-detection-with-reaper).
 
 ## Installation
 
