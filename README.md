@@ -4,7 +4,23 @@ A framework for detecting dead code at runtime. Read more about it in the [launc
 
 ## Installation
 
-Add Reaper as a dependency with Swift package manager using the URL https://github.com/EmergeTools/Reaper, or download the latest XCFramework from [Github releases](https://github.com/EmergeTools/Reaper/releases).
+### Swift Package Mamanger
+
+Add Reaper as a dependency with Swift package manager using the URL https://github.com/EmergeTools/Reaper
+
+### CocoaPods
+
+Add Reaper to your Podfile:
+
+```Ruby
+target 'MyApp' do
+  pod 'Reaper', '~> 1.1.0'
+end
+```
+
+### XCFramework
+
+Download the latest XCFramework from [Github releases](https://github.com/EmergeTools/Reaper/releases).
 
 ## Setup
 
