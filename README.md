@@ -4,7 +4,7 @@ A framework for detecting dead code at runtime. Read more about it in the [launc
 
 ## Installation
 
-### Swift Package Mamanger
+### Swift Package Manager
 
 Add Reaper as a dependency with Swift package manager using the URL https://github.com/EmergeTools/Reaper
 
