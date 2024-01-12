@@ -14,7 +14,7 @@ Add Reaper to your Podfile:
 
 ```Ruby
 target 'MyApp' do
-  pod 'Reaper', '~> 1.1.0'
+  pod 'Reaper', '~> 1.2.0'
 end
 ```
 
