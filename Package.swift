@@ -14,7 +14,7 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Reaper",
-            url: "https://github.com/EmergeTools/Reaper/releases/download/v1.5.1/Reaper.xcframework.zip",
-            checksum: "8ce37d1d6e36eae74fa38b98de04803b177bc720d437cfe18b715a7091a014b5"),
+            url: "https://github.com/EmergeTools/Reaper/releases/download/v1.5.2/Reaper.xcframework.zip",
+            checksum: "5e5612e9fbf87579fc007fa4592ecb8fbc8a8f92b2148c373c3105a88934b80f"),
     ]
 )
