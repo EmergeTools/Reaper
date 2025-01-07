@@ -10,5 +10,6 @@ Pod::Spec.new do |s|
     s.authors = "Emerge Tools"
     s.platform = :ios
     s.ios.deployment_target  = '13.0'
+    s.swift_version = '5.10'
     s.frameworks = 'UIKit'
 end
